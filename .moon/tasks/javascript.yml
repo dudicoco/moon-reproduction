@@ -1,0 +1,5 @@
+tasks:
+  install:
+    inputs:
+    - package.json
+    - pnpm-lock.yaml

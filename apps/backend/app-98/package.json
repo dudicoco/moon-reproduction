@@ -1,0 +1,26 @@
+{
+  "name": "app-98",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "4.21.1"
+  },
+  "devDependencies": {
+    "jest": "29.7.0",
+    "supertest": "7.0.0"
+  },
+  "pnpm": {
+    "supportedArchitectures": {
+      "os": [
+        "linux",
+        "current"
+      ],
+      "cpu": [
+        "amd64",
+        "current"
+      ]
+    }
+  }
+}
