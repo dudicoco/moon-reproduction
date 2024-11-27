@@ -1,5 +1,7 @@
 tasks:
   install:
+    deps:
+    - root:install
     inputs:
     - package.json
     - pnpm-lock.yaml

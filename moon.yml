@@ -1,0 +1,8 @@
+tasks:
+  install:
+    command: echo installing
+    inputs:
+    - 'package.json'
+    options:
+      cache: false
+      internal: true
