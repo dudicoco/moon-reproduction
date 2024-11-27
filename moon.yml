@@ -1,3 +1,5 @@
+language: none # prevents inheriting tasks
+
 tasks:
   install:
     command: echo installing
